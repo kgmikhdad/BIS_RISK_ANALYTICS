@@ -1,0 +1,6 @@
+instrument_id,instrument_type,face_value,coupon_rate,yield_to_maturity,maturity_years,frequency,quantity,currency
+ZC_1Y,zero_coupon,100,0.000,0.050,1.0,1,1000000,EUR
+ZC_3Y,zero_coupon,100,0.000,0.042,3.0,1,650000,EUR
+BOND_2Y,coupon,100,0.030,0.038,2.0,2,750000,EUR
+BOND_5Y,coupon,100,0.035,0.045,5.0,2,400000,EUR
+BOND_7Y,coupon,100,0.040,0.050,7.0,2,250000,EUR
