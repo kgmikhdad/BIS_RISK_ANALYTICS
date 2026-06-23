@@ -1,0 +1,11 @@
+[project]
+name = "central-bank-risk-analytics-prototypes"
+version = "0.1.0"
+description = "Streamlit prototypes for fixed-income risk analytics, RAG stress testing, and ABM market stress simulation."
+requires-python = ">=3.10"
+authors = [{name = "Muhammed Mikhdad K. G."}]
+
+[tool.pytest.ini_options]
+pythonpath = [".", "src"]
+testpaths = ["tests"]
+addopts = "-q"
